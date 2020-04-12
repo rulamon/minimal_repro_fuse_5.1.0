@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "repro-app"
+    }
+  },
+  "defaultProject": "repro-app",
+  "cli": {
+    "analytics": false
+  }
 }
